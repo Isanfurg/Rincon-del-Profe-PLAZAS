@@ -1,0 +1,24 @@
+SALUDO
+Hola y bienvenido a la serie hackatronic Usando el eScudo MultiFunción arduino. Mi nombre es Kashif Baig y hoy voy a dar un repaso rápido del despertador digital de 24 horas. Usted puede ver el código fuente haciendo clic en el enlace en la descripción y también hay un libro electrónico que lo acompaña que puede descargar de mi sitio. 
+
+Está bien. Entonces, esencialmente cuando enciendes, se enciende este escudo por la forma en que  está conectado a un Arduino Leonardo. Y, cuando lo enciendes, ves que el tiempo parpadea a las 1200 horas; más cuando apagas la energía, obviamente perderá la hora. 
+CONFIGURANDO LA HORA
+- Así que para configurar la hora tenemos que mantener presionado el botón uno (para cambiar a horas, solo parpadean los digitos de las horas). 
+- y configuramos la hora (pulsando el boton tres varias veces para ajustar la hora). 
+- Así que digamos que serán las dos y diez (presionando el boton uno otra vez para cambiar a minutos, solo parpadean los digitos de los minutos). 
+- Así que seleccionaremos las dos y diez (pulsando varias veces el boton tres para ajustar los minutos)
+- (presiona el boton uno, deja de parpadear los digitos de los minutos)
+- y cuando mantenemos presionado el botón dos, vemos la hora de la alarma (para ver las 6:30 por defecto) así que es cuando la alarma se disparará. CONFIGURANDO LA ALARMA
+- así que configuremos la alarma, mantengamos presionado el botón dos y el botón uno (presionar ambos simultaneamente hasta que empiece a parpadear los digitos de la hora)
+- y configuraremos la alarma para que suene a las dos (pulsar varias veces el boton tres hasta ajustar la hora) y once 
+- y luego podemos tener la alarma (pulsar una vez el boton uno), uh, podremos ver cómo suena la alarma. 
+- Bueno. Así que nos pusimos en marcha a las dos y once (pulsar varias veces el boton tres hasta ajustar los minutos)
+- y ahora notamos que el led uno se ha encendido, lo que significa que la alarma ya está lista para sonar. (pulsar una vez el boton uno para finalizar)
+PRUEBA 
+Así que esperaremos hasta que los minutos lleguen hasta 11. 
+- puesto que la alarma sonó como esperábamos, para apagar la alarma, mantenemos presionado el botón dos
+CANCELACION DE ALARMA
+- y, si quieres que la alarma se apague en el futuro, mantienes presionado el botón 3, el led se apaga si lo mantienes presionado
+- si presionas el botón tres nuevamente, eso significará que la alarma se activará de nuevo.
+DESPEDIDA
+Bueno. Gracias por mirar y, como digo, si desea ver el código fuente, si desea descargar el código fuente, entonces debes visitar el sitio web en el enlace y, uh, hay un montón de información adjunta  sobre algunas otras aplicaciones que puede descargar y usar en este escudo multifunción. Gracias por ver.

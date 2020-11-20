@@ -1,0 +1,4 @@
+botón 1: manténgalo pulsado para configurar la hora o la alarma
+botón 2: presione para ver la hora de la alarma o cancelar la alarma si está en curso
+Botón 3: aumenta la hora / minuto al configurar la hora (alarma). Mantenga pulsado
+ para alternar la configuración de la alarma.
